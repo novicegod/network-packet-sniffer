@@ -2,6 +2,9 @@
 
 A lightweight network security utility that intercepts raw network traffic, parses packet layers, and logs metrics into a data pipeline for live graphical visualization.
 
+# Live Dashboard Preview
+![Live Dashboard Preview](screenshot.png)
+
 # Features
 - **Raw Ingestion:** Sniffs live incoming/outgoing packets directly from the network interface card.
 - **Protocol Analysis:** Identifies and filters network layers to separate TCP, UDP, and other background protocols.
